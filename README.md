@@ -1,4 +1,4 @@
-# FunLife Network
+# FunLife Network // Bezárt
 Magyar Minecraft: Bedrock Edition szerverközösség
 
 ## Hibajegy létrehozása:
